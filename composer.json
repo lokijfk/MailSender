@@ -1,0 +1,18 @@
+{
+    "name": "mailsender/mailsender",
+    "description": "mail sender jest nakładką na PHPMailera",
+    "require": {
+        "php": ">=7.4", 
+        "phpmailer/phpmailer": "^6.7"
+    },
+    "require-dev": {
+        "smarty/smarty": "^4.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sławek Własak",
+            "email": "swlasak74@gmail.com"
+        }
+    ]
+}
