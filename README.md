@@ -1,4 +1,5 @@
-# <span style=“color:red;”> branch archiwalny, nie będzie rozwijany  </span>
+```diff 
+- branch archiwalny, nie będzie rozwijany  
 # MailSender
 Pierwotnie dodatek do aplikacji wspomagania uczelni dla uczelni wyższej,
 msłuży do wysyłki masowej maili spersonalizowanych do wykładowców.
