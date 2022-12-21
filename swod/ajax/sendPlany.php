@@ -174,7 +174,7 @@ $send = new Send();
             $info2["pos"] = "ok";
             $info["pos"] = "ok";
             $_SESSION["log"][]=$info2;
-            unset($_SESSION["wysylka"][$id] );/
+            unset($_SESSION["wysylka"][$id]);
           }
           if(isset($_GET["end"])){
             unset($_SESSION["wysylka"][$id] );
