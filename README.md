@@ -17,7 +17,7 @@ Nestety samodzielnie nie działa.
 * PwnSend.tpl - jest podglądem procesu wysyłania maili i jestwysyłany jako ostatni.
 * TerminyInneDni.tpl - jest plikiem wspomagającym.
 
-####### Component - Zawiera pliki obiektów dodatkowych:
+###### Component - Zawiera pliki obiektów dodatkowych:
 * ACL.php - kontrola uprawnień, obiekt w trakcie rozbudowy
 * Log.php - dodatkowa obsługa logów poprzez monolog
 * Tools.php - obiekt z funkcjami pomocniczymi wykożystywanymi w kilku miejscach, w trakcie rozbudowy
